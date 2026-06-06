@@ -16,7 +16,7 @@ export const PROJECTS = [
     desc: "Trang web mua bán trái cây với các tính năng: hiển thị sản phẩm, giỏ hàng, đặt hàng, thanh toán trực tuyến, và quản lý website dành cho admin.",
     tech: ["ReactJS", "Redux Toolkit", "Shadcn-UI", "TailwindCSS"],
     role: "Frontend Developer",
-    github: "", // Thiếu GitHub Link để kiểm thử trạng thái disabled
+    github: "https://github.com/TrungWolford/FruitShop",
     demo: "https://fruitshop-c4.vercel.app"
   },
   {
@@ -25,7 +25,7 @@ export const PROJECTS = [
     desc: "Website hồ sơ cá nhân thiết kế dưới dạng cuốn sổ tay 3D lật trang vật lý độc đáo. Tích hợp hiệu ứng mượt mà, responsive, tìm kiếm & lọc dự án, cùng contact form validation chuẩn UX.",
     tech: ["ReactJS", "Vite", "TailwindCSS", "Framer Motion", "React Router"],
     role: "Frontend Developer",
-    github: "https://github.com/CodeWithVu/my-portfolio",
-    demo: "" // Thiếu Demo Link để kiểm thử trạng thái disabled với tooltip "Chưa triển khai"
+    github: "https://github.com/CodeWithVu/Portfolio",
+    demo: "https://fruitshop-c4.vercel.app"
   }
 ]

@@ -48,7 +48,7 @@ Yêu cầu máy tính của bạn đã cài đặt sẵn **Node.js** và **Yarn*
 
 1. **Clone mã nguồn về máy tính:**
    ```bash
-   git clone https://github.com/CodeWithVu/my-portfolio.git
+   git clone https://github.com/CodeWithVu/Portfolio.git
    cd my-portfolio
    ```
 
@@ -84,7 +84,13 @@ Yêu cầu máy tính của bạn đã cài đặt sẵn **Node.js** và **Yarn*
 
 ## 🔗 Liên kết & Ảnh giao diện
 
-- **Link Live Demo:** `https://my-portfolio-demo.vercel.app` (Ví dụ)
+- **Link Live Demo:** `https://portfolio-vunguyen.vercel.app/`
 - **Ảnh chụp màn hình (Screenshots):**
-  - *Trang chủ (Giao diện Sáng):* `[Đính kèm ảnh screenshot 1]`
-  - *Giao diện lật trang 3D (Giao diện Tối):* `[Đính kèm ảnh screenshot 2]`
+  - *Trang chủ (Giao diện Sáng):* 
+  ![Home Light](./public/screenshot/homepage_lightmode.jpg)
+  - *Trang chủ (Giao diện tối):* 
+  ![Home Dark](./public/screenshot/homepage_darkmode.jpg)
+  - *Trang kỹ năng :* 
+  ![Skills Page](./public/screenshot/skillspage.jpg)
+  - *Trang liên hệ :* 
+  ![Contact Page](./public/screenshot/contactpage.jpg)
