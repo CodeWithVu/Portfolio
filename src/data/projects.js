@@ -7,8 +7,8 @@ export const PROJECTS = [
     desc: "Website hỗ trợ quản lý công việc với các tính năng: tạo bảng, tạo danh sách, thêm/xóa thẻ. Cho phép làm việc nhóm và kéo thả các thẻ công việc mượt mà.",
     tech: ["ReactJS", "Vite", "TailwindCSS", "DndKit", "ExpressJS", "MongoDB"],
     role: "Fullstack Developer",
-    github: "https://github.com/CodeWithVu/trello-clone",
-    demo: "https://trello-clone-todo.vercel.app/boards"
+    github: "https://github.com/CodeWithVu",
+    demo: "https://trello-clone-todo.vercel.app"
   },
   {
     image: Images.Fruitshop,
@@ -26,6 +26,6 @@ export const PROJECTS = [
     tech: ["ReactJS", "Vite", "TailwindCSS", "Framer Motion", "React Router"],
     role: "Frontend Developer",
     github: "https://github.com/CodeWithVu/Portfolio",
-    demo: "https://fruitshop-c4.vercel.app"
+    demo: "https://portfolio-vunguyen.vercel.app/"
   }
 ]

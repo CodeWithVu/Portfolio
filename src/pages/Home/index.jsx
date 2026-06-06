@@ -21,7 +21,9 @@ function Home() {
           <p>Tân Bình District, Hồ Chí Minh City</p>
         </div>
         <p className='text-sm mt-6 md:text-sm lg:text-base text-slate-500  leading-relaxed'>
-          Sinh viên CNTT năm 4 đam mê phát triển ứng dụng web Fullstack. Yêu thích xây dựng giao diện tối ưu UX với React kết hợp thiết kế hệ thống backend hiệu năng cao với Node.js/Express.
+          Sinh viên Kỹ thuật Phần mềm năm cuối, tập trung xây dựng
+          ứng dụng web Fullstack với UI/UX sắc nét và backend hiệu năng cao.
+          Đang tìm kiếm cơ hội thực tập để đóng góp vào sản phẩm thực tế.
         </p>
         <div className="flex items-center gap-4 mt-5">
           <button className="bg-white rounded-full border border-primary text-primary font-medium px-4 py-2 cursor-pointer hover:bg-primary hover:text-white transition-all ease-in-out duration-300 hover:-translate-y-2">Download CV</button>
